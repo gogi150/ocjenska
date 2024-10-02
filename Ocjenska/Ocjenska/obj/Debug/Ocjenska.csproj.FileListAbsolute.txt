@@ -1,0 +1,5 @@
+C:\Users\Ucenik\source\repos\Ocjenska\Ocjenska\obj\Debug\Ocjenska.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Ocjenska\Ocjenska\obj\Debug\Ocjenska.Form1.resources
+C:\Users\Ucenik\source\repos\Ocjenska\Ocjenska\obj\Debug\Ocjenska.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Ocjenska\Ocjenska\obj\Debug\Ocjenska.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Ocjenska\Ocjenska\obj\Debug\Ocjenska.csproj.CoreCompileInputs.cache
